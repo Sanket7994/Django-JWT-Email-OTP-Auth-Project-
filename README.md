@@ -19,15 +19,18 @@ API Endpoints: Demonstrates various API endpoints for registration, activation, 
 # Getting Started
 
 **1. Clone the repository:** 
-[git clone https://github.com/your-username/django-jwt-otp-auth.git](https://github.com/Sanket7994/Django-JWT-Email-OTP-Auth-Project-.git)
-cd django-jwt-otp-auth
+
+`git clone https://github.com/your-username/django-jwt-otp-auth.git cd django-jwt-otp-auth`
+`cd django-jwt-otp-auth`
 
 **2. Create a virtual environment:**
-python3 -m venv venv
-source venv/bin/activate
+
+`python3 -m venv venv`
+`source venv/bin/activate`
 
 **3. Install dependencies:**
-pip install -r requirements.txt
+
+`pip install -r requirements.txt`
 
 **4. Configure Database:**
 Edit the settings.py file to configure your database settings.
@@ -37,10 +40,12 @@ Edit the settings.py file to configure your email backend settings (SMTP, etc.).
 
 
 **6. Apply Migrations:**
-python3 manage.py migrate
+
+`python3 manage.py migrate`
 
 **7. Run django developer server**
-python3 manage.py runserver
+
+`python3 manage.py runserver`
 In browser go to `http://localhost:7000`.
 
 
