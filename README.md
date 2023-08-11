@@ -1,8 +1,7 @@
-![Capture](https://user-images.githubusercontent.com/109847409/209483977-facec311-98fd-44e1-9045-d4feebab6cce.PNG)
 # Django JWT Token Authorization with Account Activation and Password Reset using Email OTP
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
+[![Made with Django](https://img.shields.io/badge/Made%20with-Django-orange?style=for-the-badge&logo=Django)](https://www.djangoproject.com/)                
 [![Python 3.11.1](https://img.shields.io/badge/python-3.11.1-blue.svg)](https://www.python.org/downloads/release/python-3111/)   
 
 This repository contains a Django project that demonstrates how to implement JWT (JSON Web Token) authorization along with account activation and password reset functionality using email OTP (One-Time Password). This project aims to provide a boilerplate setup for developers looking to integrate these features into their Django applications.
