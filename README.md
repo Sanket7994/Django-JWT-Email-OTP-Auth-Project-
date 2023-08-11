@@ -52,10 +52,6 @@ Edit the settings.py file to configure your email backend settings (SMTP, etc.).
 In browser go to `http://localhost:7000`.
 
 
-**And Finally...**
-
-![giphy (1)](https://user-images.githubusercontent.com/109847409/209484487-dda00680-1f87-45be-9f6a-4c4adc4cc63a.gif)
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
