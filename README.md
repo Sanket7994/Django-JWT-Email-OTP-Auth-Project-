@@ -6,14 +6,19 @@
 
 This repository contains a Django project that demonstrates how to implement JWT (JSON Web Token) authorization along with account activation and password reset functionality using email OTP (One-Time Password). This project aims to provide a boilerplate setup for developers looking to integrate these features into their Django applications.
 
-**Features**
+# Features
 
-User Registration: Allow users to register using their email, first & last name, DOB and password.
-Account Activation: Send an email OTP to the user's registered email address for account activation.
-User Profile Creation: Dynamic auto user profile creation with the information gathered during signup along with option to add more details.
-JWT Token Authorization: Secure endpoints using JWT tokens.
-Password Reset: Allow users to reset their password by sending an email OTP.
-API Endpoints: Demonstrates various API endpoints for registration, activation, login, logout, and password reset.
+**User Registration:** Allow users to register using their email, first & last name, DOB and password.
+
+**Account Activation:** Send an email OTP to the user's registered email address for account activation.
+
+**User Profile Creation:** Dynamic auto user profile creation with the information gathered during signup along with option to add more details.
+
+**JWT Token Authorization:** Secure endpoints using JWT tokens.
+
+**Password Reset:** Allow users to reset their password by sending an email OTP.
+
+**API Endpoints:** Demonstrates various API endpoints for registration, activation, login, logout, and password reset.
 
 
 # Getting Started
