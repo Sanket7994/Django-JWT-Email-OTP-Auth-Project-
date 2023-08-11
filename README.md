@@ -16,37 +16,30 @@ Password Reset: Allow users to reset their password by sending an email OTP.
 API Endpoints: Demonstrates various API endpoints for registration, activation, login, logout, and password reset.
 
 
-**Getting Started**
+# Getting Started
 
-1. Clone the repository:
-
-git clone https://github.com/your-username/django-jwt-otp-auth.git
+**1. Clone the repository:** 
+[git clone https://github.com/your-username/django-jwt-otp-auth.git](https://github.com/Sanket7994/Django-JWT-Email-OTP-Auth-Project-.git)
 cd django-jwt-otp-auth
 
-2. Create a virtual environment:
-
+**2. Create a virtual environment:**
 python3 -m venv venv
 source venv/bin/activate
 
-3. Install dependencies:
-
+**3. Install dependencies:**
 pip install -r requirements.txt
 
-4. Configure Database:
-   
+**4. Configure Database:**
 Edit the settings.py file to configure your database settings.
 
-5. Configure Email:
-
+**5. Configure Email:**
 Edit the settings.py file to configure your email backend settings (SMTP, etc.).
 
 
-6. Apply Migrations:
-
+**6. Apply Migrations:**
 python3 manage.py migrate
 
-4. Run django developer server
-
+**7. Run django developer server**
 python3 manage.py runserver
 In browser go to `http://localhost:7000`.
 
@@ -60,9 +53,9 @@ In browser go to `http://localhost:7000`.
 
 <h2 id="credits"> :scroll: Credits</h2>
 
-Sanket Chouriya| Backend Developer
+**Sanket Chouriya | Backend Developer**
 
-<p> <i> Contact me for Project Collaborations</i></p>
+<p><i> Contact me for Project Collaborations</i></p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-chouriya-038705111/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanket7994)
